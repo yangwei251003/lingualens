@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+deliverables/
+evidence/
+.browser*/
+.settings-ui-mock*/
+__pycache__/
+.env*
